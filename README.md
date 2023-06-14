@@ -1,9 +1,13 @@
 # Título de la Obra: "Espiral del tiempo"
 
 Año: 2023
-Autor/a: Zoe Delgado
+
+Autora: Zoe Delgado
+
 Enlace a la obra: 
+
 (link a p5js) [https://editor.p5js.org/zoendelgado/sketches/ZF9vxet9e]
+
 (link a Github) [https://github.com/zndelgado/trabajo-practico-uno]
 
 
