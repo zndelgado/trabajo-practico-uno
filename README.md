@@ -6,9 +6,9 @@ Autora: Zoe Delgado
 
 Enlace a la obra: 
 
-+ (Editor p5js)[https://editor.p5js.org/zoendelgado/sketches/ZF9vxet9e]
-+ (GitHub)[https://github.com/zndelgado/trabajo-practico-uno]
-+ (Inspirada en)[https://damprojects.org/kuenstler_ui/frieder_nake/#galerieausstellungen]
++ [Editor p5js](https://editor.p5js.org/zoendelgado/sketches/ZF9vxet9e)
++ [GitHub](https://github.com/zndelgado/trabajo-practico-uno)
++ [Inspirada en](https://damprojects.org/kuenstler_ui/frieder_nake/#galerieausstellungen)
 
 Descripción
 "Espiral de Luz" es una imagen generativa que cree con la idea de utilizar transformaciones y movimientos, buscando capturar esa sensación de cambio y movimiento constante a través de las líneas en rotación. Mediante el uso de líneas que se expanden en forma de espiral, la obra crea una sensación de dinamismo y energía. La composición se desarrolla en un lienzo, donde el contraste entre la oscuridad del fondo y la luminosidad de las líneas crean una sensación de profundidad y misterio en la obra.
