@@ -1,4 +1,6 @@
-let angle = 0;
+let angle1 = 0;
+let angle2 = 0;
+let angle3 = 0;
 
 function setup() {
   createCanvas(512, 512);
@@ -11,15 +13,103 @@ function draw() {
   background(0);
   translate(width / 2, height / 2);
   
-  // líneas rotativas
-  for (let i = 0; i < 10; i++) {
-    let x = 100 * cos(angle * i);
-    let y = 100 * sin(angle * i);
+  // Primera figura
+  push();
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 11; i++) {
+    let x = 100 * cos(angle1 * i);
+    let y = 100 * sin(angle1 * i);
     
     stroke(255);
     line(0, 0, x, y);
   }
   
-  // incrementar el ángulo para generar movimiento
-  angle += 0.05;
+  // Ángulo para generar movimiento
+  angle1 += 0.02;
+  pop();
+  
+  // Segunda figura
+  push();
+  translate(0, 0);
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 10; i++) {
+    let x = 20 * cos(angle2 * i);
+    let y = 60 * sin(angle2 * i);
+    
+    stroke(255);
+    line(0, 0, x, y);
+  }
+  
+  // Ángulo para generar movimiento
+  angle2 += 0.01;
+  
+  pop();
+  
+  
+    // Tercer figura
+  push();
+  translate(150, 200);
+  
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 8; i++) {
+    let x = 20 * cos(angle1 * i);
+    let y = 10 * sin(angle1 * i);
+    
+  stroke(255);
+  line(0, 0, x, y);
+  }
+  
+  // Ángulo para generar movimiento
+  angle2 += 0.0;
+  pop();
+  
+  // Cuarta figura
+  push();
+  translate(150, 200);
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 10; i++) {
+    let x = 30 * cos(angle2 * i);
+    let y = 70 * sin(angle2 * i);
+    
+    stroke(255);
+    line(0, 0, x, y);
+  }
+  
+  // Ángulo para generar movimiento
+  angle2 += 0.001;
+  pop();
+  
+  //Quinta figura
+    push();
+  translate(-150, -130);
+  
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 8; i++) {
+    let x = 70 * cos(angle1 * i);
+    let y = 50 * sin(angle1 * i);
+    
+  stroke(255);
+  line(0, 0, x, y);
+  }
+  
+  // Ángulo para generar movimiento
+  angle3 += 0.0;
+  pop();
+  
+  // Sexta figura
+  push();
+  translate(-150, -130);
+  // Dibujar líneas rotativas
+  for (let i = 1; i < 6; i++) {
+    let x = 30 * cos(angle2 * i);
+    let y = 70 * sin(angle2 * i);
+    
+    stroke(255);
+    line(0, 0, x, y);
+  }
+  
+  // Ángulo para generar movimiento
+  angle3 += 0.02;
+  pop();
+  
 }
