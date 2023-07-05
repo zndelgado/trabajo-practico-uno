@@ -26,7 +26,7 @@ considera un medio mientras no alumbre una marca registrada. Así, pues, lo que 
 A simple vista la obra carece de un mensaje especifico, la atención inicial del espectador puede ser atraída por el movimiento y la estética de las líneas, por los patrones dinámicos que se crean.
 Por esto, al igual que la luz electrica, "Mooving Lights" necesita de otro medio para entender su contenido. 
 
-"Los efectos de la tecnología no se producen al nivel de las opiniones o de los conceptos, sino que modifican los índices sensoriales, o pautas de percepción, regularmente y sin encontrar resistencia."
+"Los efectos de la tecnología no se producen al nivel de las opiniones o de los conceptos, sino que modifican los índices sensoriales, o pautas depercepción, regularmente y sin encontrar resistencia."
 Los patrones visuales de la obra estimulan la percepción visual creando una experiencia inmediata. Este impacto sensorial puede ocurrir sin que el espectador necesariamente esté consciente de las implicaciones más profundas o conceptuales de la obra.
 Además, la tecnología empleada en la obra puede considerarse como una extensión de la luz eléctrica mencionada por McLuhan. Al igual que la luz eléctrica, la tecnología de las líneas rotativas no se percibe como un medio en sí misma, sino que se, la atención se centra en la experiencia visual y en cómo se utiliza la tecnología para crear el efecto de movimiento y transformación.
 
